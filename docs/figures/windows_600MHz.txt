@@ -1,0 +1,12 @@
+window metrics at f_max = 600 MHz
+window           param   10-90 rise  side lobe  overshoot   ENBW
+rectangular                  743 ps   -13.3 dB      8.9 %   2.00
+hann                        1617 ps   -31.5 dB      0.6 %   3.00
+hamming                     1519 ps   -42.7 dB      0.2 %   2.73
+blackman                    1976 ps   -58.1 dB      0.0 %   3.45
+blackmanharris              2334 ps   -92.0 dB      0.0 %   4.01
+kaiser           3          1158 ps   -23.7 dB      1.4 %   2.27
+kaiser           6          1644 ps   -43.8 dB      0.1 %   2.93
+kaiser           9          2022 ps   -66.3 dB      0.0 %   3.51
+chebyshev        50         1567 ps   -50.0 dB      0.1 %   2.82
+chebyshev        70         1876 ps   -70.0 dB      0.0 %   3.27

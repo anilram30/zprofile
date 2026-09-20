@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "zprofile: Reconstructs a cable's impedance profile along its physical length from frequency-domain measurements"
+abstract: "Reconstructs a cable's impedance profile along its physical length from frequency-domain measurements."
+type: software
+authors:
+  - family-names: Anil
+    given-names: Sreeram
+    email: sreeramanil30@gmail.com
+repository-code: "https://github.com/anilram30/zprofile"
+license: MIT
+keywords:
+  - signal-integrity
+  - tdr
+  - layer-peeling
+  - inverse-problem
+  - impedance
+  - s-parameters
+  - signal-processing
+  - cable-testing
+  - python
